@@ -39,8 +39,6 @@
   <img src = "Add-ons/AS.gif" width = "460px" height="auto" align="center">
 </div>
 
-<br>
-
 <h1 align="center">𝗦𝗧𝗔𝗧𝗦</h1>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api?username=nigenius&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Josh's github stats" class="left" /></a> 
@@ -48,8 +46,6 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigenius&layout=compact&theme=github_dark&hide_border=true" class="center" /></a>
 </div>
-
-<br>
 
 <h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
 <div align="center">
@@ -65,9 +61,3 @@
   <br>
   <img src=Add-ons/SAO_K.gif width="400" height="auto">
 </div>
-
-<h1 align="center"></h1>
-
-[![@j0shbl0ck's Holopin board](https://holopin.me/j0shbl0ck)](https://holopin.io/@j0shbl0ck)
-
-              
